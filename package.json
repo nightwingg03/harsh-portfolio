@@ -1,6 +1,6 @@
 {
-  "homepage": "https://github.com/nightwingg03/Portfolio",
-  "name": "portfolio",
+  "name": "reactportfolio",
+  "homepage": "https://nightwingg03.github.io/harsh-portfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,7 +9,7 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "predeploy" : "npm run build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
